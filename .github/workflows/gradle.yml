@@ -30,5 +30,4 @@ jobs:
       with:
         name: build-outputs
         path: |
-          build/libs/*
-          build/distributions/*
+          build/distributions/AquaDX-boot-1.0.0.zip
